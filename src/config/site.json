@@ -1,0 +1,49 @@
+{
+  "template": "gym",
+  "brand": {
+    "name": "Crown Welness Club",
+    "shortName": "Crown Welness",
+    "tagline": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "social": {
+      "instagram": "",
+      "youtube": "",
+      "x": ""
+    },
+    "logo": "/brand/logo.png"
+  },
+  "colors": {
+    "bg": "#211c1a",
+    "bgElevated": "#2c2726",
+    "surface": "#363031",
+    "surface2": "#464040",
+    "text": "#f2f4f3",
+    "muted": "#aaa6aa",
+    "accent": "#ecb49c",
+    "accent2": "#a4242c",
+    "logoBg": "#211c1a"
+  },
+  "layout": {
+    "headerLogoBg": false,
+    "footerLogoBg": false
+  },
+  "pages": {
+    "home": true,
+    "about": true,
+    "branches": true,
+    "halls": false,
+    "trainers": true,
+    "services": true,
+    "tools": false,
+    "equipment": true,
+    "pricing": true,
+    "shop": true,
+    "blog": true,
+    "faq": true,
+    "contact": true,
+    "auth": false
+  }
+}
